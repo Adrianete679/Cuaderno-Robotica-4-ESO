@@ -15,7 +15,7 @@ El código está compuesto por:
 Esta práctica cosiste en hacer que un diodo LED que está encendido se apague utilizando un pulsador. 
 El código está compuesto por:
 - define:
-- pinMode(INPUT):
+- pinMode(INPUT): sirve para configurar un pin específico como entrada digital.
 - int valor:
 - Serial.begin():
 - valor:
