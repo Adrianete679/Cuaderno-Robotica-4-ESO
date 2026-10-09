@@ -3,8 +3,8 @@
 
 Esta práctica consiste en hacer un encendido alternativo de dos diodos LEDS, el LED1 es de color rojo y el LED2 es de color azul. 
 El código está compuesto por:
-- void setup:
-- pinMode(OUTPUT):
+- void setup: sirve para ejecutar un bloque de código una sola vez justo cuando la placa se enciende o se reinicia.
+- pinMode(OUTPUT): configura un pin digital específico como salida, para que pueda enviar señales energía o señales eléctricas a un componentes exteno
 - void loop:
 - digitalWrite(13, LOW):
 - digitalWrite(7, HIGH)
