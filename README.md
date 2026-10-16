@@ -1,3 +1,5 @@
+# Prácticas
+
 ## Práctica 1 - Encendido alternativo de diodos leds
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/1e4e6b92-9365-46fa-ba3a-29d16101efa0" />
 
@@ -22,9 +24,61 @@ El código está compuesto por:
 - digitalRead
 - digitalWrite(pin13, ...)
 - serial.println
-## Práctica 3 - Potenciometro
+## Práctica 3 - Potenciómetro
 
 
 Esta práctica consiste en hacer que la intensidad de un diodo led vaya aumentando o disminuyendo, dependiendo que que tanto gires el pntenciometro. Cuanto más gires el potenciometro, más se iluminará, y al contrario. 
 El código está compuesto por:
 - Escribir
+- 
+## Práctica 4 - Mapeado de datos del potenciómetro
+
+
+Esta práctica consiste en hacer un mapeado con los dato que obtenemos de un potenciómetro.
+El código está compuesto por:
+- Escribir
+-
+## Práctica 5 - PWM
+
+
+Esta práctica consiste en 
+El código está compuesto por:
+- Escribir
+-
+## Práctica 6 - Ultrasonido
+
+
+Esta práctica consiste en 
+El código está compuesto por:
+- Escribir
+- 
+## Práctica 7 - Servomtor
+
+
+Esta práctica consiste en 
+El código está compuesto por:
+- Escribir
+- 
+
+# Retos
+
+## Reto 1
+
+
+Este reto consiste en
+El código a sido explicado en prácticas anteriores
+## Reto 2
+
+
+Este reto consiste en
+El código a sido explicado en prácticas anteriores
+## Reto 3
+
+
+Este reto consiste en
+El código a sido explicado en prácticas anteriores
+## Reto 4 
+
+
+Este reto consiste en
+El código a sido explicado en prácticas anteriores
