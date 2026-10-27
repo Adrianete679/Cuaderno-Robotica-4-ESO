@@ -24,24 +24,24 @@ El código está compuesto por:
 - digitalRead
 - digitalWrite(pin13, ...)
 - serial.println
-## Práctica 3 - Potenciómetro
+## Práctica 3 - Potenciómetro. Mapear
 
 
-Esta práctica consiste en hacer que la intensidad de un diodo led vaya aumentando o disminuyendo, dependiendo que que tanto gires el pntenciometro. Cuanto más gires el potenciometro, más se iluminará, y al contrario. 
+Esta práctica consiste en obtener distintos valores con el mapeado.
 El código está compuesto por:
 - Escribir
 - 
 ## Práctica 4 - Mapeado de datos del potenciómetro
 
 
-Esta práctica consiste en hacer un mapeado con los dato que obtenemos de un potenciómetro.
+Esta práctica consiste en hacer que los valores de un potenciómetro, que va de 0 hasta 1224, ajustarlos a unos valores, en este caso los he ajustado a unos valores de 0 a 100. Y con eso hacer que el valor mínimo del potenciómetro equivalga a el mínimo que le he puesto y que el máximo equivalga al máximo que le he puesto. Osea que el 0 sea 0 y el 1224 sea 100
 El código está compuesto por:
 - Escribir
 -
 ## Práctica 5 - PWM
 
 
-Esta práctica consiste en 
+Esta práctica consiste en hacer que la intensidad de un diodo led vaya aumentando o disminuyendo, dependiendo que que tanto gires el pntenciometro. Cuanto más gires el potenciometro, más aumentará o disminuirá la intensidad luminosa. 
 El código está compuesto por:
 - Escribir
 -
