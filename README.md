@@ -46,7 +46,9 @@ El código está compuesto por:
 - Escribir
 -
 ## Práctica 6 - Ultrasonido
-
+<img width="600" height="250" alt="Imgen de Cerca" src="https://github.com/user-attachments/assets/fa4761f3-ff90-4520-ae9f-ee7bdf58f830" />
+<img width="650" height="300" alt="Codigo 1ºParte" src="https://github.com/user-attachments/assets/dd13b153-efe6-4ea8-a9cc-337847d39a53" />
+<img width="650" height="300" alt="Codigo 2ºParte" src="https://github.com/user-attachments/assets/2bfe9100-4cc3-43e6-bf75-a1ff9217a781" />
 
 Esta práctica consiste en 
 El código está compuesto por:
