@@ -54,7 +54,7 @@ Esta práctica consiste en
 El código está compuesto por:
 - Escribir
 - 
-## Práctica 7 - Servomtor
+## Práctica 7 - Servomotor
 
 
 Esta práctica consiste en 
