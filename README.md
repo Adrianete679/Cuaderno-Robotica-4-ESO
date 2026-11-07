@@ -33,7 +33,9 @@ El código está compuesto por:
 - Escribir
 - 
 ## Práctica 4 - Mapeado de datos del potenciómetro
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" /> 
 
+(Es la misma foto que la de la práctica anterior porque es el mismo montaje)
 
 Esta práctica consiste en hacer que los valores de un potenciómetro, que va de 0 hasta 1224, ajustarlos a unos valores, en este caso los he ajustado a unos valores de 0 a 100. Y con eso hacer que el valor mínimo del potenciómetro equivalga a el mínimo que le he puesto y que el máximo equivalga al máximo que le he puesto. Osea que el 0 sea 0 y el 1224 sea 100
 El código está compuesto por:
