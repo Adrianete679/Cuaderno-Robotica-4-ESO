@@ -39,7 +39,7 @@ El código está compuesto por:
 
 Esta práctica consiste en hacer que los valores de un potenciómetro, que va de 0 hasta 1224, ajustarlos a unos valores, en este caso los he ajustado a unos valores de 0 a 100. Y con eso hacer que el valor mínimo del potenciómetro equivalga a el mínimo que le he puesto y que el máximo equivalga al máximo que le he puesto. Osea que el 0 sea 0 y el 1224 sea 100
 El código está compuesto por:
-- Escribir
+- mapear: sirve para hacer equivalentes los valores de dos objetos/elementos. Osea, que el valor máximo de un elemento sea el valor máximo de otro elemento que su máximo se mas elevado.
 -
 ## Práctica 5 - PWM
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/0b2ccd75-7da8-470e-973b-5b857f0ee50d" />
