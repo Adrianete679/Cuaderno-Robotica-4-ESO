@@ -26,7 +26,7 @@ El código está compuesto por:
 - serial.println
 ## Práctica 3 - Potenciómetro. Mapear
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
-
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
 
 Esta práctica consiste en obtener distintos valores con el mapeado.
 El código está compuesto por:
