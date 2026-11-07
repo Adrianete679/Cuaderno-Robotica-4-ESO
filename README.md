@@ -25,6 +25,7 @@ El código está compuesto por:
 - digitalWrite(pin13, ...)
 - serial.println
 ## Práctica 3 - Potenciómetro. Mapear
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
 
 
 Esta práctica consiste en obtener distintos valores con el mapeado.
