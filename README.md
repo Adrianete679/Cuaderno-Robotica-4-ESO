@@ -42,6 +42,7 @@ El código está compuesto por:
 - Escribir
 -
 ## Práctica 5 - PWM
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/0b2ccd75-7da8-470e-973b-5b857f0ee50d" />
 
 
 Esta práctica consiste en hacer que la intensidad de un diodo led vaya aumentando o disminuyendo, dependiendo que que tanto gires el pntenciometro. Cuanto más gires el potenciometro, más aumentará o disminuirá la intensidad luminosa. 
