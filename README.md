@@ -3,7 +3,7 @@
 ## Práctica 1 - Encendido alternativo de diodos leds
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/1e4e6b92-9365-46fa-ba3a-29d16101efa0" />
 
-Esta práctica consiste en hacer un encendido alternativo de dos diodos LEDS, el LED1 es de color rojo y el LED2 es de color azul. 
+Esta práctica consiste en hacer un encendido alternativo de dos diodos LEDS, el primer LED en encenderse es el rojo y el segundo el azul. 
 El código está compuesto por:
 - void setup: sirve para ejecutar un bloque de código una sola vez justo cuando la placa se enciende o se reinicia.
 - pinMode(OUTPUT): configura un pin digital específico como salida, para que pueda enviar energía o señales eléctricas a un componente.
@@ -28,7 +28,7 @@ El código está compuesto por:
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
 
-Esta práctica consiste en obtener distintos valores con el mapeado.
+Esta práctica consiste en obtener distintos valores, del 0 al 1023, utilizando el mapeado.
 El código está compuesto por:
 - Escribir
 - 
@@ -38,15 +38,13 @@ El código está compuesto por:
 (Es la misma foto que la de la práctica anterior porque es el mismo montaje)
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/d6bdf9bb-7462-4cc4-8a5b-28144c832913" />
 
-(Es la misma foto que la de la práctica anterior porque es el mismo montaje)
-
-Esta práctica consiste en hacer que los valores de un potenciómetro, que va de 0 hasta 1224, ajustarlos a unos valores, en este caso los he ajustado a unos valores de 0 a 100. Y con eso hacer que el valor mínimo del potenciómetro equivalga a el mínimo que le he puesto y que el máximo equivalga al máximo que le he puesto. Osea que el 0 sea 0 y el 1224 sea 100
+Esta práctica consiste en hacer que los valores de un potenciómetro, que va de 0 hasta 1224, se convieran en otros valores, en este caso los he convertido en valores de 0 a 100.
 El código está compuesto por:
 - mapear: sirve para hacer equivalentes los valores de dos objetos/elementos. Osea, que el valor máximo de un elemento sea el valor máximo de otro elemento que su máximo se mas elevado.
 -
 ## Práctica 5 - PWM
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/0b2ccd75-7da8-470e-973b-5b857f0ee50d" />
-<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
 
 Esta práctica consiste en hacer que la intensidad de un diodo led vaya aumentando o disminuyendo, dependiendo que que tanto gires el pntenciometro. Cuanto más gires el potenciometro, más aumentará o disminuirá la intensidad luminosa. 
 El código está compuesto por:
