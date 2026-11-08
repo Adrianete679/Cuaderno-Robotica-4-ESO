@@ -22,7 +22,7 @@ El código está compuesto por:
 - Serial.begin():
 - valor:
 - digitalRead
-- digitalWrite(pin13, ...)
+- digitalWriteç
 - serial.println
 ## Práctica 3 - Potenciómetro. Mapear
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
@@ -72,7 +72,7 @@ El código está compuesto por:
 ## Reto 1
 
 
-Este reto consiste en
+Este reto trata sobre un control de ledes con un potenciómetro. Diseñar, montar y programar un sistema que permita controlar 5 diodos LED (protegidos con una única resistencia) mediante un potenciómetro. El funcionamiento debe ser el siguiente: con el potenciómetro en valor mínimo, todos los ledes estarán apagados. Conforme subamos el valor del potenciómetro, el diodo 1 (solo este) debe ir incrementando su valor de luminosidad. Cuando el diodo 1 esté completamente iluminado, el 2 empezará a encenderse con una iluminación creciente hasta que llegue a su tope. Eso mismo deberemos hacer con todos los diodos 1, 2, 3, 4 y 5. Para ello os recomiendo utilizar unos condicionales, establecer valores frontera y mezclar lo aprendido en las prácticas anterores.
 El código a sido explicado en prácticas anteriores
 ## Reto 2
 
