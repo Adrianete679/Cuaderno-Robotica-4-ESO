@@ -114,7 +114,7 @@ Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
-Trata sobre un control de ledes con un potenciómetro. Diseñar, montar y programar un sistema que permita controlar 5 diodos LED (protegidos con una única resistencia) mediante un potenciómetro. El funcionamiento debe ser el siguiente: con el potenciómetro en valor mínimo, todos los ledes estarán apagados. Conforme subamos el valor del potenciómetro, el diodo 1 (solo este) debe ir incrementando su valor de luminosidad. Cuando el diodo 1 esté completamente iluminado, el 2 empezará a encenderse con una iluminación creciente hasta que llegue a su tope. Eso mismo deberemos hacer con todos los diodos 1, 2, 3, 4 y 5. Para ello os recomiendo utilizar unos condicionales, establecer valores frontera y mezclar lo aprendido en las prácticas anteriores.
+Consiste en montar un circuito con 5 LED y un potenciómetro para controlar la luz de los LED. Cuando el potenciómetro esté al mínimo, todos los LED estarán apagados. Al girarlo, el primer LED empezará a iluminarse poco a poco hasta llegar a su máxima luminosidad, después empezará a encenderse el segundo y hará lo mismo, y esto se hará con los cinco LED.
 
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
@@ -123,7 +123,7 @@ Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
-
+Consiste en utilizar un sensor ultrasónico y dos LED para crear una especie de sistema de emergencia. Cuando un objeto se acerque al sensor, los dos LED irán aumentando su brillo. Cuanto más cerca esté el objeto, más luz tendrán los LED.
 
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
@@ -132,7 +132,7 @@ Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
-
+Consiste en modificar la práctica del ultrasonido añadiendo un potenciómetro. Este servirá para elegir la distancia a la que queremos que se encienda el LED de emergencia.
 
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
@@ -141,7 +141,16 @@ Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
+Consiste en utilizar un potenciómetro para controlar el movimiento de un servomotor. Al girar el potenciómetro, el servomotor cambiará su posición según el valor que le indiquemos.
 
+### Código explicado:
+Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
+
+## Reto 5
+Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
+
+### ¿En qué consiste?:
+Consiste en utilizar un sensor ultrasónico para controlar un servomotor según la distancia a la que esté un objeto. El sensor medirá la distancia y, dependiendo de lo cerca o lejos que esté el objeto, el servomotor se moverá a una posición determinada.
 
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
