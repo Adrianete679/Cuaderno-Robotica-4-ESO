@@ -3,27 +3,37 @@
 ## Práctica 1 - Encendido alternativo de diodos leds
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/1e4e6b92-9365-46fa-ba3a-29d16101efa0" />
 
-Esta práctica consiste en hacer un encendido alternativo de dos diodos LEDS, el primer LED en encenderse es el rojo y el segundo el azul. 
-El código está compuesto por:
-- void setup: sirve para ejecutar un bloque de código una sola vez justo cuando la placa se enciende o se reinicia.
-- pinMode(OUTPUT): configura un pin digital específico como salida, para que pueda enviar energía o señales eléctricas a un componente.
-- void loop: sirve para ejecutar un bloque de código de forma continua e infinita.
-- digitalWrite(LOW): sirve para decir que un pin digital está apagado 
-- digitalWrite(HIGH): sirve para decir que un pin digital está encendido.
-- delay(1000): se utiliza para indicar que entre una acción y la otra debe haber un tiempo de espera, en este caso de 1 segundo. Este tiempo se indica en milisegundos.
+¿En qué consiste?
+Consiste en encender y apagar dos LED de forma alternativa. Cuando uno está encendido, el otro está apagado. Cada segundo cambian de estado.
+
+Código explicado:
+- void setup(): ejecuta las instrucciones una sola vez al iniciar Arduino.
+- pinMode(13, OUTPUT): configura el pin 13 como salida.
+- pinMode(7, OUTPUT): configura el pin 7 como salida.
+- void loop(): repite las instrucciones continuamente.
+- digitalWrite(13, LOW): apaga el LED del pin 13.
+- digitalWrite(7, HIGH): enciende el LED del pin 7.
+- delay(1000): espera un segundo.
 ## Práctica 2 - Pulsador
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/20544824-5b60-4e81-85fe-0a64e270d636" />
 
-Esta práctica cosiste en hacer que un diodo LED que está encendido se apague utilizando un pulsador. 
-El código está compuesto por:
-- #define:
-- int valor: 
-- pinMode(INPUT): sirve para configurar un pin específico como entrada digital.
-- Serial.begin():
-- valor:
-- digitalRead
-- digitalWriteç
-- serial.println
+¿En qué consiste?
+Consiste en utilizar un pulsador para controlar un LED. Cuando pulsamos el botón, el LED se enciende; cuando lo soltamos, se apaga. También muestra en el monitor serie si está pulsado o no.
+
+Código explicado:
+-#define pin2 2: asigna el nombre pin2 al pin 2.
+-#define pin13 13: asigna el nombre pin13 al pin 13.
+-int valor2: crea una variable para guardar el estado del pulsador.
+-INPUT: configura el pin como entrada.
+-Serial.begin(9600): inicia la comunicación con el ordenador.
+-digitalRead(pin2): lee el estado del pulsador.
+-if: comprueba si se cumple una condición.
+-valor2 == HIGH: comprueba si el pulsador está sin pulsar o no.
+-digitalWrite(pin13, LOW): apaga el LED.
+-Serial.println("No Pulsado"): indica que no está pulsado.
+-valor2 == LOW: comprueba si el pulsador está pulsado o no.
+-digitalWrite(pin13, HIGH): enciende el LED.
+-Serial.println("Pulsado"): indica que está pulsado.
 ## Práctica 3 - Potenciómetro. Mapear
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
