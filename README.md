@@ -71,7 +71,7 @@ Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trab
 ## Práctica 5 - PWM
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/0b2ccd75-7da8-470e-973b-5b857f0ee50d" />
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
-[![](https://img.youtube.com/viZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
+[![](https://img.youtube.com/vi/ZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
 
 ### ¿En qué consiste?:
 Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar el potenciómetro, podemos hacer que el LED brille más o menos.
