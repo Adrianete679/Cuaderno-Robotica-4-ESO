@@ -96,6 +96,7 @@ Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trab
 ## Práctica 5 - PWM
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/0b2ccd75-7da8-470e-973b-5b857f0ee50d" />
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
+
 [![](https://img.youtube.com/vi/ZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
 
 ### ¿En qué consiste?:
@@ -114,6 +115,7 @@ Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar
 <img width="600" height="250" alt="Imgen de Cerca" src="https://github.com/user-attachments/assets/fa4761f3-ff90-4520-ae9f-ee7bdf58f830" />
 <img width="650" height="300" alt="Codigo 1ºParte" src="https://github.com/user-attachments/assets/dd13b153-efe6-4ea8-a9cc-337847d39a53" />
 <img width="650" height="300" alt="Codigo 2ºParte" src="https://github.com/user-attachments/assets/2bfe9100-4cc3-43e6-bf75-a1ff9217a781" />
+
 [![](https://img.youtube.com/vi/EXzA4VjIh4Y/0.jpg)](https://www.youtube.com/watch?v=EXzA4VjIh4Y)
 
 ### ¿En qué consiste?:
