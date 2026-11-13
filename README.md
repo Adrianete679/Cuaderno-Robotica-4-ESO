@@ -1,8 +1,7 @@
 # Prácticas
 
 ## Práctica 1 - Encendido alternativo de diodos leds
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/fe915b15-656d-4cad-8c38-26b7afca6f3b" />https://github.com/Adrianete679/Cuaderno-Robotica-4-ESO/blob/main/README.md
-
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/fe915b15-656d-4cad-8c38-26b7afca6f3b"
 
 ### ¿En qué consiste?:
 Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendido, el otro está apagado. Cada segundo cambian de estado.
@@ -30,17 +29,29 @@ Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos 
 
 ### Código explicado:
 -#define pin2 2: crea un nombre para identificar el pin 2, donde está conectado el pulsador.
+
 -#define pin13 13: crea un nombre para identificar el pin 13, donde está conectado el LED.
+
 -int valor2: crea una variable para guardar si el pulsador está pulsado o no.
+
 -pinMode(pin2, INPUT): indica que el pin 2 va a recibir información del pulsador.
+
 -Serial.begin(9600): permite que Arduino se comunique con el ordenador.
+
 -digitalRead(pin2): comprueba si el pulsador está pulsado o no.
+
 -if: sirve para comprobar si se cumple una condición.
+
 -valor2 == HIGH: comprueba si el valor recibido es HIGH.
+
 -digitalWrite(pin13, LOW): apaga el LED.
+
 -Serial.println("No Pulsado"): muestra el mensaje «No Pulsado» en el ordenador.
+
 -valor2 == LOW: comprueba si el valor recibido es LOW.
+
 -digitalWrite(pin13, HIGH): enciende el LED.
+
 -Serial.println("Pulsado"): muestra el mensaje «Pulsado».
 
 ## Práctica 3 - Potenciómetro. Mapear
@@ -54,9 +65,13 @@ Consiste en utilizar un potenciómetro para cambiar un valor girándolo. Arduino
 
 ### Código explicado:
 -int P2 = A2: indica que el potenciómetro está conectado a la entrada A2 de Arduino.
+
 -float valorpotenciometro = 0: crea una variable para guardar el valor del potenciómetro. Puede guardar números con decimales.
+
 -analogRead(P2): lee el valor que está enviando el potenciómetro. En Arduino Uno puede ir de 0 a 1023.
+
 -Serial.println(valorpotenciometro): muestra el valor en el ordenador.
+
 -delay(500): espera medio segundo antes de volver a leer el potenciómetro.
 
 ## Práctica 4 - Mapeado de datos del potenciómetro
@@ -72,7 +87,9 @@ Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trab
 
 ### Código explicado:
 -int resultado = 0: crea una variable para guardar el nuevo valor.
+
 -map(valorpotenciometro, 0, 1023, 0, 100): cambia el valor del potenciómetro de una escala de 0-1023 a otra de 0-100.
+
 -Serial.println(resultado): muestra el nuevo valor en el ordenador.
 
 ## Práctica 5 - PWM
@@ -85,8 +102,11 @@ Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar
 
 ### Código explicado:
 -int LED1 = 11: indica que el LED está conectado al pin 11.
+
 -int DutyCycle: crea una variable para guardar la intensidad que tendrá el LED.
+
 -map(valorpotenciometro, 0, 1023, 0, 255): transforma los valores del potenciómetro a una escala de 0 a 255.
+
 -analogWrite(LED1, DutyCycle): controla el brillo del LED según el valor que tenga la variable DutyCycle.
 
 ## Práctica 6 - Ultrasonido
@@ -100,16 +120,27 @@ Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un
 
 ### Código explicado:
 -#include <Ultrasonic.h>: añade una biblioteca que permite utilizar el sensor ultrasónico.
+
 -int ECHO_PIN = 13: indica que el cable ECHO del sensor está conectado al pin 13.
+
 -int TRIG_PIN = 12: indica que el cable TRIG está conectado al pin 12.
+
 -int LED1 = 8: indica que el LED está conectado al pin 8.
+
 -Ultrasonic Chorifletes(TRIG_PIN, ECHO_PIN): crea un objeto llamado Chorifletes para poder utilizar el sensor.
+
 -Serial.println("Aviso a 15 cm"): muestra el mensaje «Aviso a 15 cm» en el ordenador.
+
 -Serial.print(Chorifletes.Ranging(CM)): mide la distancia a la que está el objeto y muestra el resultado.
+
 -Serial.println(" cm"): escribe la unidad de medida, centímetros.
+
 -if (Chorifletes.Ranging(CM) < 15): comprueba si el objeto está a menos de 15 centímetros.
+
 -digitalWrite(LED1, HIGH): enciende el LED si el objeto está a menos de 15 centímetros.
+
 -else: indica lo que tiene que hacer Arduino si no se cumple la condición anterior.
+
 -digitalWrite(LED1, LOW): apaga el LED si el objeto está a 15 centímetros o más.
 
 ## Práctica 7 - Servomotor
