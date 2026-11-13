@@ -1,7 +1,7 @@
 # Prácticas
 
 ## Práctica 1 - Encendido alternativo de diodos leds
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/fe915b15-656d-4cad-8c38-26b7afca6f3b" />
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/fe915b15-656d-4cad-8c38-26b7afca6f3b" />https://github.com/Adrianete679/Cuaderno-Robotica-4-ESO/blob/main/README.md
 
 
 ### ¿En qué consiste?:
@@ -9,10 +9,11 @@ Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendi
 
 ### Código explicado:
 -void setup(): ejecuta las instrucciones una sola vez cuando se inicia Arduino.
+
 -pinMode(13, OUTPUT): indica que el pin 13 va a enviar electricidad para controlar un LED.
 -pinMode(7, OUTPUT): hace lo mismo con el pin 7.
 -void loop(): hace que las instrucciones se repitan continuamente.
-digitalWrite(13, LOW): apaga el LED conectado al pin 13.
+-digitalWrite(13, LOW): apaga el LED conectado al pin 13.
 -digitalWrite(7, HIGH): enciende el LED conectado al pin 7.
 -delay(1000): espera un segundo.
 
@@ -40,6 +41,7 @@ Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos 
 ## Práctica 3 - Potenciómetro. Mapear
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/e271ff45-8924-4f87-9f34-69d523f1de85" />
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
+
 [![](https://img.youtube.com/vi/u_LzLcUyPQk/0.jpg)](https://www.youtube.com/watch?v=u_LzLcUyPQk)
 
 ### ¿En qué consiste?:
