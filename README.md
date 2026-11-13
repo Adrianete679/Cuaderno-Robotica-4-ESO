@@ -11,10 +11,15 @@ Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendi
 -void setup(): ejecuta las instrucciones una sola vez cuando se inicia Arduino.
 
 -pinMode(13, OUTPUT): indica que el pin 13 va a enviar electricidad para controlar un LED.
+
 -pinMode(7, OUTPUT): hace lo mismo con el pin 7.
+
 -void loop(): hace que las instrucciones se repitan continuamente.
+
 -digitalWrite(13, LOW): apaga el LED conectado al pin 13.
+
 -digitalWrite(7, HIGH): enciende el LED conectado al pin 7.
+
 -delay(1000): espera un segundo.
 
 ## Práctica 2 - Pulsador
