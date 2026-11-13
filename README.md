@@ -1,7 +1,8 @@
+
 # Prácticas
 
 ## Práctica 1 - Encendido alternativo de diodos leds
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/fe915b15-656d-4cad-8c38-26b7afca6f3b"
+<img width="750" height="400" alt="Práctica 1" src="https://github.com/user-attachments/assets/99b01575-6798-4a6f-8c75-387cbbe79724" />
 
 ### ¿En qué consiste?:
 Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendido, el otro está apagado. Cada segundo cambian de estado.
