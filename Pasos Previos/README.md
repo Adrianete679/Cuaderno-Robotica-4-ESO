@@ -3,6 +3,9 @@
 ## Práctica 1 - Encendido alternativo de diodos leds
 <img width="750" height="400" alt="Práctica 1" src="https://github.com/user-attachments/assets/99b01575-6798-4a6f-8c75-387cbbe79724" />
 
+[![](https://img.youtube.com/vi/2f6OHwZokGQ/0.jpg)](https://www.youtube.com/watch?v=2f6OHwZokGQ)
+
+
 ### ¿En qué consiste?:
 Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendido, el otro está apagado. Cada segundo cambian de estado.
 
@@ -23,6 +26,9 @@ Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendi
 
 ## Práctica 2 - Pulsador
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/20544824-5b60-4e81-85fe-0a64e270d636" />
+
+[![](https://img.youtube.com/vi/-WE_l8MV6Dg/0.jpg)](https://www.youtube.com/watch?v=-WE_l8MV6Dg)
+
 
 ### ¿En qué consiste?:
 Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos el botón, se enciende el LED y cuando lo soltamos, se apaga. Además, Arduino muestra en el ordenador si el botón está pulsado o no.
