@@ -59,6 +59,7 @@ Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
 
 [![](https://img.youtube.com/vi/u_LzLcUyPQk/0.jpg)](https://www.youtube.com/watch?v=u_LzLcUyPQk)
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
 Consiste en utilizar un potenciómetro para cambiar un valor girándolo. Arduino lee ese valor y lo muestra en el ordenador. Cuanto más giramos el potenciómetro, más cambia el número que aparece.
@@ -81,6 +82,8 @@ Consiste en utilizar un potenciómetro para cambiar un valor girándolo. Arduino
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/d6bdf9bb-7462-4cc4-8a5b-28144c832913" />
 
 [![](https://img.youtube.com/vi/FqHJXZcOIXY/0.jpg)](https://www.youtube.com/watch?v=FqHJXZcOIXY)
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
+
 ### ¿En qué consiste?:
 Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trabajar con números de 0 a 1023, los transformamos para que vayan de 0 a 100. Así resulta más fácil entenderlos.
 
@@ -96,6 +99,7 @@ Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trab
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
 
 [![](https://img.youtube.com/vi/ZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
 Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar el potenciómetro, podemos hacer que el LED brille más o menos.
@@ -115,6 +119,7 @@ Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar
 <img width="650" height="300" alt="Codigo 2ºParte" src="https://github.com/user-attachments/assets/2bfe9100-4cc3-43e6-bf75-a1ff9217a781" />
 
 [![](https://img.youtube.com/vi/EXzA4VjIh4Y/0.jpg)](https://www.youtube.com/watch?v=EXzA4VjIh4Y)
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
 Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un objeto. Si el objeto está a menos de 15 centímetros, se enciende un LED. Si está a 15 centímetros o más, el LED se apaga.
