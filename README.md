@@ -7,7 +7,7 @@ Bienvenidos a mi cuaderno de ingeniería de la asignatura de Robótica y Visión
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
 | `Pasos Previos` |<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f2489f53-ea0a-480e-8979-e999244dc287" />
-| [Pincha aquí](ENLACE) |
+| [Pincha aquí](https://github.com/Adrianete679/Cuaderno-Robotica-4-ESO/tree/main/Pasos%20Previos) |
 | --- | --- | --- |
 | --- | --- | --- |
 | --- | --- | --- |
