@@ -5,6 +5,7 @@
 
 [![](https://img.youtube.com/vi/2f6OHwZokGQ/0.jpg)](https://www.youtube.com/watch?v=2f6OHwZokGQ)
 
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
 Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendido, el otro está apagado. Cada segundo cambian de estado.
@@ -29,6 +30,7 @@ Consiste en encender y apagar dos LED alternativamente. Cuando uno está encendi
 
 [![](https://img.youtube.com/vi/-WE_l8MV6Dg/0.jpg)](https://www.youtube.com/watch?v=-WE_l8MV6Dg)
 
+(Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
 Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos el botón, se enciende el LED y cuando lo soltamos, se apaga. Además, Arduino muestra en el ordenador si el botón está pulsado o no.
@@ -65,6 +67,7 @@ Consiste en utilizar un pulsador para encender y apagar un LED. Cuando pulsamos 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b0ff7c84-e040-406f-8333-7ff8874869f9" />
 
 [![](https://img.youtube.com/vi/u_LzLcUyPQk/0.jpg)](https://www.youtube.com/watch?v=u_LzLcUyPQk)
+
 (Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
@@ -88,6 +91,7 @@ Consiste en utilizar un potenciómetro para cambiar un valor girándolo. Arduino
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/d6bdf9bb-7462-4cc4-8a5b-28144c832913" />
 
 [![](https://img.youtube.com/vi/FqHJXZcOIXY/0.jpg)](https://www.youtube.com/watch?v=FqHJXZcOIXY)
+
 (Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
@@ -105,6 +109,7 @@ Consiste en cambiar los valores que obtenemos del potenciómetro. En vez de trab
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/12b242d2-30b4-4000-b5ca-c77bb485173f" />
 
 [![](https://img.youtube.com/vi/ZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
+
 (Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
@@ -125,6 +130,7 @@ Consiste en controlar el brillo de un LED utilizando un potenciómetro. Al girar
 <img width="650" height="300" alt="Codigo 2ºParte" src="https://github.com/user-attachments/assets/2bfe9100-4cc3-43e6-bf75-a1ff9217a781" />
 
 [![](https://img.youtube.com/vi/EXzA4VjIh4Y/0.jpg)](https://www.youtube.com/watch?v=EXzA4VjIh4Y)
+
 (Vídeo hecho por mi compañero Lorenzo Manuel Latorre Martínez)
 
 ### ¿En qué consiste?:
