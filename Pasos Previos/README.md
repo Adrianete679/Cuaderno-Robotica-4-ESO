@@ -162,7 +162,8 @@ Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un
 -digitalWrite(LED1, LOW): apaga el LED si el objeto está a 15 centímetros o más.
 
 ## Práctica 7 - Servomotor
-Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/8a6ceb30-9052-4977-8168-2390520bd67a" />
+
 
 ### ¿En qué consiste?:
 Aquí estaría la práctica explicada
