@@ -166,10 +166,10 @@ Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un
 
 
 ### ¿En qué consiste?:
-Aquí estaría la práctica explicada
+Debemos conseguir que un servomotor vaya de 0 a 180º 
 
 ### Código explicado:
-Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
+
 
 # Retos
 
