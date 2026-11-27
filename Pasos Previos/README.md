@@ -169,7 +169,13 @@ Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un
 Consiste en mover un servomotor de 0 a 180º paso a paso, para ello le vamos sumando +1 hasta llegar a 180, y una vez que llegue hacemos que haga lo contrario, que pase de 180º a 0, y eso lo hacemos restando -1. Una vez que llegue a 0, lo vuelve a repetir.
 
 ### Código explicado:
+- int pos=0:
+  
+- servo.attach(servoPin):
 
+- for (pos=0; pos<=180; pos +=1):
+
+- servo.write(pos):
 
 # Retos
 
