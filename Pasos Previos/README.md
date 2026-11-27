@@ -166,16 +166,10 @@ Consiste en utilizar un sensor ultrasónico para saber a qué distancia está un
 
 
 ### ¿En qué consiste?:
-Consiste en mover un servomotor de 0 a 180º paso a paso, para ello le vamos sumando +1 hasta llegar a 180, y una vez que llegue hacemos que haga lo contrario, que pase de 180º a 0, y eso lo hacemos restando -1. Una vez que llegue a 0, lo vuelve a repetir.
+
 
 ### Código explicado:
-- int pos=0:
-  
-- servo.attach(servoPin):
 
-- for (pos=0; pos<=180; pos +=1):
-
-- servo.write(pos):
 
 # Retos
 
@@ -206,7 +200,23 @@ Consiste en modificar la práctica del ultrasonido añadiendo un potenciómetro.
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 
-## Reto 4 
+## Reto 4
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/8a6ceb30-9052-4977-8168-2390520bd67a" />
+
+
+### ¿En qué consiste?:
+Consiste en mover un servomotor de 0 a 180º paso a paso, para ello le vamos sumando +1 hasta llegar a 180, y una vez que llegue hacemos que haga lo contrario, que pase de 180º a 0, y eso lo hacemos restando -1. Una vez que llegue a 0, lo vuelve a repetir.
+
+### Código explicado:
+- int pos=0:
+  
+- servo.attach(servoPin):
+
+- for (pos=0; pos<=180; pos +=1):
+
+- servo.write(pos):
+
+## Reto 5 
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
@@ -215,7 +225,7 @@ Consiste en utilizar un potenciómetro para controlar el movimiento de un servom
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
 
-## Reto 5
+## Reto 6
 Aquí iría la imagen del montaje y del código, y el vídeo, pero no me ha dado tiempo a hacerlo.
 
 ### ¿En qué consiste?:
@@ -223,4 +233,3 @@ Consiste en utilizar un sensor ultrasónico para controlar un servomotor según 
 
 ### Código explicado:
 Aquí estaría el código explicado pero no me ha dado tiempo a hacerlo
-
